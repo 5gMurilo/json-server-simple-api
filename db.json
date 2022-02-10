@@ -1,0 +1,10 @@
+{
+    "members":[
+        {"id":1, "nome": "jhulya", "foto": "https://i.ibb.co/WxYtZbn/jhu.png", "idade": 20},
+        {"id":2, "nome": "finn", "foto": "https://i.ibb.co/yV8CvCC/finn.jpg", "idade": 1},
+        {"id":3, "nome": "golpe baixo", "foto": "https://i.ibb.co/qj0MWWm/golpebaixo.jpg", "idade":2},
+        {"id":4, "nome": "jake", "foto": "https://i.ibb.co/r7nfBSK/jake.jpg", "idade":1},
+        {"id":5, "nome": "murilo", "foto": "https://i.ibb.co/cX4WgqG/eu-memo.jpg", "idade":19}
+
+    ]
+}
